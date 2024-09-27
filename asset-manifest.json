@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/speechrecognition2/static/css/main.073c9b0a.css",
+    "main.js": "/speechrecognition2/static/js/main.9ee43b21.js",
+    "static/js/787.e779cae8.chunk.js": "/speechrecognition2/static/js/787.e779cae8.chunk.js",
+    "index.html": "/speechrecognition2/index.html",
+    "main.073c9b0a.css.map": "/speechrecognition2/static/css/main.073c9b0a.css.map",
+    "main.9ee43b21.js.map": "/speechrecognition2/static/js/main.9ee43b21.js.map",
+    "787.e779cae8.chunk.js.map": "/speechrecognition2/static/js/787.e779cae8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9ee43b21.js"
+  ]
+}
